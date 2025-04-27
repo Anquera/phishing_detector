@@ -47,33 +47,19 @@ If any feature flags the email, it suggests that the email exhibits characterist
 
 PHISHING_DETECTOR/
 ├── .venv/                  # Python virtual environment (optional)
-
 ├── outputs/                # Directory to store scan reports
-
 │   ├── test_sample1.txt_report.txt
-
 │   └── test_sample2.txt_report.txt
-
 ├── phishing_detector/
-
 │   ├── __init__.py
-
 │   ├── ml_model.py         # Placeholder for potential ML features
-
 │   ├── scanner.py          # Contains the core scanning logic
-
 │   └── utils.py            # Helper functions (reading emails, reporting)
-
 ├── tests/                  # Directory to place email files for scanning
-
 │   ├── test_sample1.txt
-
 │   └── test_sample2.txt
-
 ├── main.py                 # Entry point to run the scanner
-
 ├── README.md               # This file
-
 └── requirements.txt        # Project dependencies (if any)
 
 

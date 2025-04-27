@@ -1,0 +1,6 @@
+Phishing Scan Report
+------------------------------
+• No suspicious keywords in subject.
+• Sender email appears safe.
+• No suspicious URLs found.
+------------------------------

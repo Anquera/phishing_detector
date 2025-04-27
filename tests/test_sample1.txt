@@ -1,0 +1,20 @@
+From: Security Alert <no-reply@amaz0n.com>
+Subject: Urgent: Your Amazon Account Has Been Suspended
+
+Dear Customer,
+
+Your Amazon account has been temporarily suspended due to unusual activity. To regain access to your account and prevent permanent suspension, you are required to verify your information immediately.
+
+Please click the link below to login and verify your details:
+
+http://login.amaz0n-security-update.com/verify?user=testuser123
+
+Failure to verify your account within 24 hours will result in permanent closure.
+
+Thank you for your immediate action.
+
+Sincerely,
+The Amazon Security Team
+http://www.amazon.com/
+
+This is an automated message, please do not reply.

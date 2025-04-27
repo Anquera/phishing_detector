@@ -1,0 +1,6 @@
+Phishing Scan Report
+------------------------------
+• Suspicious keyword found in subject: 'urgent'
+• Suspicious sender domain found: 'amaz0n'
+• Suspicious URLs found: http://login.amaz0n-security-update.com/verify?user=testuser123
+------------------------------

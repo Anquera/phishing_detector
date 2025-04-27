@@ -1,0 +1,18 @@
+From: Newsletter <info@example.com>
+Subject: Weekly Update - New Features
+
+Hello Subscriber,
+
+Here is your weekly update from Example Service.
+
+We have added several new features this week! Check out our blog for more details:
+
+https://blog.example.com/new-features-week-3
+
+You can manage your subscription preferences here:
+https://www.example.com/account/preferences
+
+We hope you enjoy the updates!
+
+Best regards,
+The Example Team
